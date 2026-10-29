@@ -1,0 +1,10 @@
+name = "berrypanel"
+main = "worker.js"
+compatibility_date = "2026-10-29"
+[[kv_namespaces]]
+binding = "K"
+id = "91f6b194361643e69c207eee6eaac072"
+
+
+
+
